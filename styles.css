@@ -1,0 +1,82 @@
+#main {
+    background-color: white;
+    margin: 0px;
+}
+
+#title {
+    font-family: monospace;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.title-citation {
+    font-family: monospace;
+    font-size: medium;
+    text-align: center;
+}
+
+#img-div {
+    margin: 0px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+#image {
+    width: 100vh;
+    height: auto;
+    padding-top: 1em;
+    margin: auto;
+}
+
+#img-caption {
+    text-align: center;
+    color: #110a04;
+    font-family: monospace;
+    font-size: small;
+    margin: 10px 0 5px 0;
+}
+
+section{
+    background-color: ghostwhite;
+}
+
+.headline {
+    margin: 50px 0;
+    text-align: center;
+    font-family: monospace;
+}
+
+ul {
+    font-family: monospace;
+    text-align: start;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+}
+
+li {
+    margin: 20px 0;
+}
+
+h3 {
+    font-style: italic;
+    font-family: monospace;
+    text-align: center;
+    margin: 50px 0;    
+}
+
+p {
+    font-family: monospace;
+    text-align: center;
+    margin: auto;
+}
+
+a {
+    font-family: monospace;
+}
